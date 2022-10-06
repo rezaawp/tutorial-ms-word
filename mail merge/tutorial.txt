@@ -1,0 +1,47 @@
+klik mailing
+pilih select recipients
+pilih use an existing list
+
+
+
+LATIHAN SOAL
+bagaimana cara copas kartu ujian yang benar dengan urutan record yang sesuai ?
+Jawab : 
+- pilih mailings
+- nonaktifkan preview result
+- klik rules
+- setelah klik rules, pilih next record
+
+copas kartu ujian yang ke berapa (supaya hasil paste nya berurutan ?
+Jawab : Ke 2 (setelah rules yang ke 2 ini sudah di atur dengan rules next record)
+
+lalu blok kartu ujian sampai muncul tanda apa ?
+Jawab : 
+
+lalu tekan apa pada keyboard ?
+Jawab :
+
+Lalu letakan kursor pada kartu ujian berikutnya sampai muncul tanda apa ?
+Jawab : 
+
+Lalu tekan apa pada keyboard ?
+Jawab : 
+
+
+17 ) Mengakhiri mail merge
+*mencetak mail merge :
+- Pilih F-N-S & M-R-E (Finish & Merge)
+- Pilih P-I-T D-C-M-N (Print Document)
+Pilih mau di print apa :
+- A-L (All) : print semua halaman
+- C-R-E-T R-C-R (Current Record) : Halaman yang aktif saja
+- F-O-T (From .... To ....): Dari halaman sampai halaman
+- Pilih Ok
+
+*Menyimpan mail merge : 
+- Pilih F-N-S & M-R-E (Finish & Merge)
+- Pilih E-I I-D-V-D-A D-C-M-N (Edit Individual Documents)
+- Pilih A-L (All)
+- Pilih OK
+- Lalu akan di generate sesuai jumlah data peserta ujian UTS 
+
